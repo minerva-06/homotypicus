@@ -1,24 +1,18 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Homotypicus',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
+  description: 'Homotypicus',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
+      name: 'Minerva',
       avatar: '/assets/img/sal.jpg',
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
-      },
-      {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
-      },
+      }
     ],
     footer: {
       contact: [
